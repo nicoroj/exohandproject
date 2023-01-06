@@ -14,7 +14,10 @@ My plan is to make the exoskeleton as accessible and affordable as possible, so 
 
 # How does the exoskeleton work?
 
-The exoskeleton will move the fingers of stroke survivors using three modes (for now).
+The exoskeleton will move the fingers of stroke survivors using three modes which will be described below. Look at this video and my youtube channel to understand more about the project. (Low qualitiy video)
+
+[![Alt text](https://img.youtube.com/vi/v5TpR5g0ZpY/0.jpg)](https://www.youtube.com/watch?v=v5TpR5g0ZpY)
+
 
 ### CPM Mode: 
 One of the modes is a continuous-passive movement in which the exoskeleton repeatedly flexes and extends the person's hand fingers.
