@@ -1,4 +1,4 @@
-# Exo-hand Project
+# Exo-hand Project (In progress)
 
 Making a low-cost exoskeleton hand for stroke survivors.
 
